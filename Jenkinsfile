@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 node('maven-label'){
 }
