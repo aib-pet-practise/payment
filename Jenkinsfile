@@ -1,1 +1,2 @@
-Hi
+node('docker-label'){
+}
